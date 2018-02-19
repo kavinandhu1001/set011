@@ -11,10 +11,10 @@ gets(a);
 b=strrev(a);
 for(i=0;i<n;i++)
 {
-    if(i==n)
+    
     {
-        printf("%c,b[i]);
-        break;
+        printf("%c",b[i]);
+        
     }
     
 }
